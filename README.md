@@ -4,11 +4,11 @@ This is a full-featured relational database system designed for a real-world air
 
 ## Features
 
-- ✅ Normalized to 3NF
-- ✅ Custom views, stored procedures, triggers, and user-defined functions
-- ✅ Sample test queries using JOINs and subqueries
-- ✅ Data integrity constraints and security considerations
-- ✅ Backup and recovery strategy
+-  Normalized to 3NF
+-  Custom views, stored procedures, triggers, and user-defined functions
+-  Sample test queries using JOINs and subqueries
+-  Data integrity constraints and security considerations
+-  Backup and recovery strategy
 
 ## Files
 
@@ -27,3 +27,10 @@ This is a full-featured relational database system designed for a real-world air
 SELECT c.name, c.country
 FROM Customers c
 ...
+
+Tools Used
+SQL Server Management Studio (SSMS)
+
+Microsoft SQL Server
+
+Excel/CSV for data preprocessing
